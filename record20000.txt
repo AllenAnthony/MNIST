@@ -1,0 +1,11 @@
+addLayer.pytest accuracy 0.9923 
+bigCore.pytest accuracy 0.9922 
+bigFull.pytest accuracy 0.9926 
+decLayer.pytest accuracy 0.9906 
+lessCore.pytest accuracy 0.9919 
+MNIST.pytest accuracy 0.9928 
+moreCore.pytest accuracy 0.9918 
+moreFull.pytest accuracy 0.9915
+smallCore.pytest accuracy 0.9917 
+smallFull.pytest accuracy 0.9921 
+Tanh.pytest accuracy 0.989

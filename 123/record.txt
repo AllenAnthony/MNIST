@@ -1,0 +1,4 @@
+www.runoob.com!
+Very good site!
+123
+E:/WorkPlaceForPython/tensor/123/TEST1.txt
